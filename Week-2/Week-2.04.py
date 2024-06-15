@@ -1,4 +1,4 @@
-Hamming Weight
+ Hamming Weight
 
 Write a python program that takes a integer between 0 and 15 as input and displays the number of '1' s in its binary form.(Hint:use python bitwise operator.
 
