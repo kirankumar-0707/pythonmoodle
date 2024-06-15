@@ -1,4 +1,4 @@
-Strictly increasing
+ Strictly increasing
 
 Write a Python program to check if a given list is strictly increasing or not. Moreover, If removing only one element from the list results in a strictly increasing list, we still consider the list true
 
