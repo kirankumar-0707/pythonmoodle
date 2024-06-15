@@ -1,4 +1,4 @@
-Sum of Series
+ Sum of Series
 
 Write a program to find the sum of the series 1 +11 + 111 + 1111 + . . . + n terms (n will be given as input from the user and sum will be the output)
 
