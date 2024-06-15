@@ -1,4 +1,4 @@
-Remove repeated
+ Remove repeated
 
 Write a program to eliminate the common elements in the given 2 arrays and print only the non-repeating elements and the total number of such non-repeating elements.
 
