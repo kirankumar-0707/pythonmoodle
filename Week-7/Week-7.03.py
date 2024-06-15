@@ -1,4 +1,4 @@
-Check Product of Digits
+ Check Product of Digits
 
 Write a code to check whether product of digits at even places is divisible by sum of digits at odd place of a positive integer.
 
