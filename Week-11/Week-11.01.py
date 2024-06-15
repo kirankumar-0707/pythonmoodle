@@ -1,4 +1,4 @@
-
+ 
 Write a Python program that asks the user for their age and prints a message based on the age. Ensure that the program handles cases where the input is not a valid integer.
 
 Input Format: A single line input representing the user's age.
