@@ -1,4 +1,4 @@
-Electricity Bill
+ Electricity Bill
 
 Write a program to calculate and print the Electricity bill where the unit consumed by the user is given from test case. It prints the total amount the customer has to pay. The charge are as follows: 
 
