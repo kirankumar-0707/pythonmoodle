@@ -1,4 +1,4 @@
-Problem Description: 
+ Problem Description: 
 
 Write a Python program that asks the user for their age and prints a message based on the age. Ensure that the program handles cases where the input is not a valid integer.
 
