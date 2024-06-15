@@ -1,4 +1,4 @@
-Print Element Location
+ Print Element Location
 
 Write a program to print all the locations at which a particular element (taken as input) is found in a list and also print the total number of times it occurs in the list. The location starts from 1.
 
