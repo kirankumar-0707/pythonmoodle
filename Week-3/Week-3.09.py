@@ -1,4 +1,4 @@
-Second last digit
+ Second last digit
 
 Write a program that returns the second last digit of the given number. Second last digit is being referred 10the digit in the tens place in the given number.
 
