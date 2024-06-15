@@ -1,4 +1,4 @@
-Revers String
+ Revers String
 
 Reverse a string without affecting special characters. Given a string S, containing special characters and all the alphabets, reverse the string without affecting the positions of the special characters.
 
