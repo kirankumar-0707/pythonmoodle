@@ -1,4 +1,4 @@
-Merge Two Sorted Arrays Without Duplication
+ Merge Two Sorted Arrays Without Duplication
 
 Output is a merged array without duplicates.
 
