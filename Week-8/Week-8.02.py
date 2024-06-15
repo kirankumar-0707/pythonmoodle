@@ -1,4 +1,4 @@
-Check Pair 
+ Check Pair 
 
 Given a tuple and a positive integer k, the task is to find the count of distinct pairs in the tuple whose sum is equal to K.
 
