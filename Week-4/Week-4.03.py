@@ -1,4 +1,4 @@
-Prime Checking
+ Prime Checking
  
 Write a program that finds whether the given number N is Prime or not. If the number is prime, the program should return 2 else it must return 1.
 
