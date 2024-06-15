@@ -1,4 +1,4 @@
-Christmas Discount
+ Christmas Discount
 
 An e-commerce company plans to give their customers a special discount for Christmas.
 
