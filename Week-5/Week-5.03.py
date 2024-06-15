@@ -1,4 +1,4 @@
-Count Elements
+ Count Elements
 
 Complete the program to count frequency of each element of an array. Frequency of a particular element will be printed once.
 
