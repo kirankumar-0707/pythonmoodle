@@ -1,4 +1,4 @@
-Factors of a number
+ Factors of a number
 
 Determine the factors of a number (i.e., all positive integer values that evenly divide into a number).
 
