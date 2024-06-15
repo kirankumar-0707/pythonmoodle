@@ -1,4 +1,4 @@
-Distinct Elements in an Array
+ Distinct Elements in an Array
 
 Program to print all the distinct elements in an array. Distinct elements are nothing but the unique (non-duplicate) elements present in the given array.
 
