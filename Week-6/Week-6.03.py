@@ -1,4 +1,4 @@
-First N Common Chars
+ First N Common Chars
 
 Two string values S1, S2 are passed as the input. The program must print first N characters present in S1 which are also present in S2.
 
