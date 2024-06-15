@@ -1,4 +1,4 @@
-Unique Digit Count
+ Unique Digit Count
 
 Write a program to find the count of unique digits in a given number N. The number will be passed to the program as an input of type int.
 
