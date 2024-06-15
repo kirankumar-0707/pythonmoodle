@@ -1,4 +1,4 @@
-Difference Sum
+ Difference Sum
 
 Given a number with maximum of 100 digits as input, find the difference between the sum of odd and even position digits.
 
