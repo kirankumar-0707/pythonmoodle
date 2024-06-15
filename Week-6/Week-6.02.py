@@ -1,4 +1,4 @@
-Decompress the String
+ Decompress the String
 
 Assume that the given string has enough memory. Don't use any extra space(IN-PLACE)
 
